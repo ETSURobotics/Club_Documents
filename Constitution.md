@@ -54,6 +54,11 @@ The **ETSU Robotics Club** aims to:
 - Coordinates club communication and announcements.
 - Assists in administrative duties as needed.
 
+### **Faculty Advisor**
+- Connects our organization to ETSU via faculty
+- Communicates with the ETSU board on behalf of our organization along with the president.
+- Maintains the club throughout its operation as different members cycle through the program.
+  
 ---
 This constitution is subject to **revision and updates** as the club grows and evolves. Changes may be proposed and voted upon during official club meetings.
 
