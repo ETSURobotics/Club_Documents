@@ -49,16 +49,6 @@ The **ETSU Robotics Club** aims to:
 - Organizes fundraising efforts and grant applications.
 - Ensures responsible allocation of club resources.
 
-### **Project Lead(s)**
-- Oversees specific robotics projects or competition teams.
-- Assigns tasks and ensures project milestones are met.
-- Provides technical mentorship to members.
-
-### **Outreach Coordinator**
-- Organizes community engagement and recruitment efforts.
-- Establishes industry partnerships and networking opportunities.
-- Promotes the club through social media and marketing initiatives.
-
 ### **Secretary**
 - Maintains meeting minutes and official club documents.
 - Coordinates club communication and announcements.
