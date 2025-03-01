@@ -4,7 +4,7 @@
 > ― Donald Ervin Knuth, *The Art of Computer Programming, Volume 1: Fundamental Algorithms*
 
 ## 1. Club Overview
-The **ETSU Robotics Club** is a student-led organization dedicated to fostering interest, education, and hands-on experience in robotics. We provide an inclusive environment for students of all skill levels to collaborate on projects, participate in competitions, and engage in research involving robotics, automation, and artificial intelligence.
+The **ETSU Robotics Club** is a student-led organization dedicated to fostering interest, education, and hands-on experience in robotics. We provide an inclusive environment for students of all skill levels to collaborate on projects, participate in competitions, and engage in research involving robotics, automation, low-level security, 3D modeling, and any other cool project you can conceive.
 
 ## 2. Club History
 The **ETSU Robotics Club** was founded in **February 2025** by:
@@ -15,7 +15,7 @@ The **ETSU Robotics Club** was founded in **February 2025** by:
 
 ## 3. Club Purpose
 The **ETSU Robotics Club** aims to:
-- Encourage interdisciplinary collaboration in **robotics, mechatronics, AI, and cybersecurity**.
+- Encourage interdisciplinary collaboration in **robotics, mechatronics, and cybersecurity**.
 - Provide hands-on experience through **projects, competitions, and research**.
 - Educate members in **robotics hardware, software development, and control systems**.
 - Promote industry connections and professional development opportunities.
@@ -31,7 +31,7 @@ The **ETSU Robotics Club** aims to:
 - Club resources and projects should be used **ethically and responsibly**.
 - Collaboration and teamwork are **highly encouraged**.
 - Members must follow **ETSU student conduct policies**.
-- Intellectual property created within the club belongs to its **original creators**, unless stated otherwise in a project agreement.
+- Don't act a fool.
 
 ## 5. Club Organizational Roles
 ### **President**
