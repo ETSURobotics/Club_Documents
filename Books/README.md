@@ -1,1 +1,1 @@
-# Below are a list of books dedicated towards computer science and electrical engineering.
+# A list of books dedicated towards computer science and electrical engineering.
