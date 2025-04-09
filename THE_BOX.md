@@ -1,4 +1,4 @@
-# List of current materials available in the box:
+# List of current materials available in the BOX:
   -
   -
   -
