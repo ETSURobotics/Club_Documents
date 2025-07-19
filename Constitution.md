@@ -54,6 +54,11 @@ The **ETSU Robotics Club** aims to:
 - Coordinates club communication and announcements.
 - Assists in administrative duties as needed.
 
+### **Operations Officer**
+- Manages event logistics, including room reservations and equipment setup.
+- Oversees inventory of club assets (hardware, software licenses, supplies).
+- Ensures smooth execution of meetings, workshops, and competitions.
+
 ### **Faculty Advisor**
 - Connects our organization to ETSU via faculty
 - Communicates with the ETSU board on behalf of our organization along with the president.
