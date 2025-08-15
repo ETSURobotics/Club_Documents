@@ -10,8 +10,10 @@
   - ???
 
 # PLANNED TRANSACTIONS:
-  INCOME->
+  ## INCOME:
     - SOAR Donations: 250$
     - ETSU Support: 500$
 
-  EXPENSES->
+  ## EXPENSES:
+    - 
+    - 
